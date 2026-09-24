@@ -5,7 +5,7 @@ working on **in vivo two-photon calcium imaging** in the mouse V1 cortex and the
 **pipelines** to analyze it.
 
 ### Current focus
-- In vivo awake two-photon calcium imaging (mouse visual cortex)
+- In vivo awake two-photon calcium imaging (mouse primary visual cortex)
 - End-to-end analysis pipelines: motion correction → segmentation → dF/F →
   event detection → tuning & population analysis → interactive reports
 - Signal processing for calcium traces
