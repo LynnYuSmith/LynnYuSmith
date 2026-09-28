@@ -1,5 +1,7 @@
 # Lynn Smith
 
+<s>біофізинейрофізіо</s>киця
+
 Researcher at the University of Tübingen (Physiology Institute II — Garaschuk Lab),
 working on **in vivo two-photon calcium imaging** in the mouse V1 cortex and the
 **pipelines** to analyze it.
